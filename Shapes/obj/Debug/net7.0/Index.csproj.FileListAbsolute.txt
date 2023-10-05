@@ -1,0 +1,14 @@
+C:\Users\MIRP\development\work\interview\Shapes\bin\Debug\net7.0\Index.exe
+C:\Users\MIRP\development\work\interview\Shapes\bin\Debug\net7.0\Index.deps.json
+C:\Users\MIRP\development\work\interview\Shapes\bin\Debug\net7.0\Index.runtimeconfig.json
+C:\Users\MIRP\development\work\interview\Shapes\bin\Debug\net7.0\Index.dll
+C:\Users\MIRP\development\work\interview\Shapes\bin\Debug\net7.0\Index.pdb
+C:\Users\MIRP\development\work\interview\Shapes\obj\Debug\net7.0\Index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIRP\development\work\interview\Shapes\obj\Debug\net7.0\Index.AssemblyInfoInputs.cache
+C:\Users\MIRP\development\work\interview\Shapes\obj\Debug\net7.0\Index.AssemblyInfo.cs
+C:\Users\MIRP\development\work\interview\Shapes\obj\Debug\net7.0\Index.csproj.CoreCompileInputs.cache
+C:\Users\MIRP\development\work\interview\Shapes\obj\Debug\net7.0\Index.dll
+C:\Users\MIRP\development\work\interview\Shapes\obj\Debug\net7.0\refint\Index.dll
+C:\Users\MIRP\development\work\interview\Shapes\obj\Debug\net7.0\Index.pdb
+C:\Users\MIRP\development\work\interview\Shapes\obj\Debug\net7.0\Index.genruntimeconfig.cache
+C:\Users\MIRP\development\work\interview\Shapes\obj\Debug\net7.0\ref\Index.dll

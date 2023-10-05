@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!--
+    Author: Matthew Petke
+    Date: 10/05/23
+-->
+
+  <head>
+    <title>Tip Calculator</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="./style.css" rel="stylesheet" />
+    <script defer src="./index.js"></script>
+  </head>
+
+  <body>
+    <div id="inputPage">
+      <div id="welcome-wrapper">
+        <h1>Tip Calculator</h1>
+      </div>
+      <div class="form-wrapper">
+        <form id="tipCalcForm">
+          <div class="form-group">
+            <label for="bill">Bill: </label>
+            <span class="input-wrapper leading">
+              <span class="over-input-char">$</span>
+              <input required name="bill" id="bill" type="number" step=".01" />
+            </span>
+          </div>
+          <div class="form-group">
+            <label for="tip">Tip: </label>
+            <span class="input-wrapper trailing">
+              <span class="over-input-char">%</span>
+              <input
+                required
+                name="tip"
+                id="tip"
+                type="number"
+                min="0"
+                max="100"
+                maxlength="3"
+                list="defaultPercentages"
+              />
+
+              <datalist id="defaultPercentages">
+                <option value="5"></option>
+                <option value="10"></option>
+                <option value="20"></option>
+                <option value="25"></option>
+                <option value="50"></option>
+              </datalist>
+            </span>
+          </div>
+          <input type="submit" name="calculate-tip" value="Calculate" />
+        </form>
+      </div>
+    </div>
+    <div id="outputPage">
+      <h1 id="calculatedTip"></h1>
+    </div>
+  </body>
+</html>
